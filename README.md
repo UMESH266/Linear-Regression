@@ -45,7 +45,7 @@ The objective is similar to simple linear regression: find the coefficients that
 ### 2.3 Cost Function:
 The cost function for multiple linear regression is an extension of the one used in simple linear regression.
 
-### 3. Assumptions of Linear Regression:
+## 3. Assumptions of Linear Regression:
 
 1. Linearity: The relationship between variables is assumed to be linear.
 2. Independence: Residuals (the differences between observed and predicted values) should be independent.
@@ -53,11 +53,11 @@ The cost function for multiple linear regression is an extension of the one used
 4. Normality of Residuals: Residuals are assumed to be normally distributed.
 5. No Multicollinearity: Independent variables should not be highly correlated.
 
-### 4. Applications:
+## 4. Applications:
 
 Linear regression is used in various fields, including finance, economics, biology, and social sciences, for tasks like predicting sales, stock prices, housing prices, and more.
 
-### 5. Implementation:
+## 5. Implementation:
 
 The Python code file contains Simple Linear regression solutions for two simple datasets and has different models with polynomial, Standard scaled, Log scaled, and Square root scaled modeling solutions for the same problems.
 
