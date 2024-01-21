@@ -64,6 +64,9 @@ The Python code file contains Simple Linear regression solutions for two simple 
 Problem statements:
 1) Delivery_time -> Predict delivery time using sorting time 
 2) Salary_hike -> Build a prediction model for Salary_hike
+3) Prepare a prediction model for profit of 50_startups data. Do transformations to get better predictions of profit and make a table containing R2 value for each prepared model.
+4) Consider only the below columns and prepare a prediction model for predicting the Price of Corolla.
+Corolla<-Corolla("Price", "Age_08_04", "KM", "HP", "cc", "Doors", "Gears", "Quarterly_Tax", "Weight")
 
 NOTE: These models assume the underlying relationship is linear, and their performance can be affected if the assumptions are violated. Regularization techniques like Ridge and Lasso regression are also used to address issues like multicollinearity and overfitting.
 
